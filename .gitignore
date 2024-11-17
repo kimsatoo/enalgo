@@ -1,0 +1,4 @@
+# Vs-Code
+.vscode/*
+*/__pycache__/*
+history/*
